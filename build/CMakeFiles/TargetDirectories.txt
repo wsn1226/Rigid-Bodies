@@ -1,0 +1,8 @@
+C:/Users/18140/Desktop/study/UIUC Exchange/Physics_Animation/CSC417-a5-rigid-bodies/build/CMakeFiles/a5-rigid-bodies.dir
+C:/Users/18140/Desktop/study/UIUC Exchange/Physics_Animation/CSC417-a5-rigid-bodies/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/18140/Desktop/study/UIUC Exchange/Physics_Animation/CSC417-a5-rigid-bodies/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/18140/Desktop/study/UIUC Exchange/Physics_Animation/CSC417-a5-rigid-bodies/build/glad/CMakeFiles/glad.dir
+C:/Users/18140/Desktop/study/UIUC Exchange/Physics_Animation/CSC417-a5-rigid-bodies/build/glad/CMakeFiles/ALL_BUILD.dir
+C:/Users/18140/Desktop/study/UIUC Exchange/Physics_Animation/CSC417-a5-rigid-bodies/build/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/18140/Desktop/study/UIUC Exchange/Physics_Animation/CSC417-a5-rigid-bodies/build/glfw/src/CMakeFiles/glfw.dir
+C:/Users/18140/Desktop/study/UIUC Exchange/Physics_Animation/CSC417-a5-rigid-bodies/build/imgui/CMakeFiles/imgui.dir

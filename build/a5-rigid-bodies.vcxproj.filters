@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a5-rigid-bodies\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a5-rigid-bodies\src\dV_spring_particle_particle_dq.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a5-rigid-bodies\src\inertia_matrix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a5-rigid-bodies\src\pick_nearest_vertices.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a5-rigid-bodies\src\rigid_body_jacobian.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a5-rigid-bodies\src\rigid_to_world.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a5-rigid-bodies\src\rodrigues.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a5-rigid-bodies\shared\src\find_max_vertices.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a5-rigid-bodies\shared\src\find_min_vertices.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a5-rigid-bodies\shared\src\init_state.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a5-rigid-bodies\shared\src\init_state_rigid_bodies.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a5-rigid-bodies\shared\src\read_tetgen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a5-rigid-bodies\shared\src\visualization.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a5-rigid-bodies\assignment_setup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a5-rigid-bodies\include\dV_spring_particle_particle_dq.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a5-rigid-bodies\include\exponential_euler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a5-rigid-bodies\include\inertia_matrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a5-rigid-bodies\include\pick_nearest_vertices.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a5-rigid-bodies\include\rigid_body_jacobian.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a5-rigid-bodies\include\rigid_to_world.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a5-rigid-bodies\include\rodrigues.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a5-rigid-bodies\shared\include\EigenTypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a5-rigid-bodies\shared\include\find_max_vertices.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a5-rigid-bodies\shared\include\find_min_vertices.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a5-rigid-bodies\shared\include\init_state.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a5-rigid-bodies\shared\include\init_state_rigid_bodies.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a5-rigid-bodies\shared\include\read_tetgen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a5-rigid-bodies\shared\include\visualization.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a5-rigid-bodies\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{1A8C922F-30B2-3928-925E-4B4AA7492322}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C866DCF7-9049-39F8-9246-B6815C6AA168}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

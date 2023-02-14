@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a5-rigid-bodies\build\CMakeFiles\4f7655bca0658784279fe22a5d02330d\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B90BD274-FB3C-3B17-9077-6B895C0DE1FF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
