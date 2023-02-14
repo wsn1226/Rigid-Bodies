@@ -1,4 +1,4 @@
-# Rigid Body Mechanics
+# Rigid Body Mechanics (Incomplete)
 
 
 ## Acknowledgement
